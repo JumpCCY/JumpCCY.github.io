@@ -1,7 +1,7 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Bebas Neue', cursive;
+  font-family: "Bebas Neue", cursive;
 }
 
 h1 {
@@ -10,30 +10,32 @@ h1 {
   margin: 120px auto 0 auto;
   top: 60px;
   font-size: 70px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: "Bebas Neue", cursive;
 }
 
 h2 {
   margin-top: 0px;
   font-size: 50px;
   font-weight: normal;
-  font-family: 'Grand Hotel', cursive;
+  font-family: "Grand Hotel", cursive;
   color: #ff6f5e;
 }
 
 h3 {
   color: #40bfc1;
   font-size: 50px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: "Bebas Neue", cursive;
 }
 
 h6 {
   color: #ff6f5e;
+  font-size: 30px;
+  margin: 25px auto;
 }
 
 p {
   font-size: 30px;
-  font-family: 'Grand Hotel', cursive;
+  font-family: "Grand Hotel", cursive;
 }
 
 hr {
@@ -125,7 +127,9 @@ hr {
   font-size: 16px;
   font-family: Courier New;
   font-weight: 900;
-  font-style: normal
-  }
-  
+  font-style: normal;
+}
 
+a{
+  margin: auto 40px;
+}
