@@ -11,6 +11,7 @@ h1 {
   top: 60px;
   font-size: 70px;
   font-family: "Bebas Neue", cursive;
+  width: 21%;
 }
 
 h2 {
@@ -133,3 +134,9 @@ hr {
 a{
   margin: auto 40px;
 }
+
+h1:hover { 
+  color: #fff;
+}
+
+
